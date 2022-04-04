@@ -1,0 +1,47 @@
+import java.util.Scanner;
+
+/*
+Task: Use conditional statements to automate the decision-making process.
+
+What will the application do?
+The application prompts the user to enter an integer between 1 and 100.
+Display the associated result based on the integer range entered.  
+
+Build Specifications
+Use if/else statements to take different actions depending on user input.  
+Given an integer entered by a user, perform the following conditional actions:
+If the integer entered is odd, print the number entered and “Odd.”
+If the integer entered is even and in the inclusive range of 2 to 25, print “Even and less than 25.”
+If the integer entered is even and in the inclusive range of 26 to 60, print “Even.”
+If the integer entered is even and greater than 60, print the number entered and “Even.”
+If the integer entered is odd and greater than 60, print the number entered and “Odd and over 60.”
+
+Extra Challenges:
+Ask for user information (ex. name) at the beginning of the application, and use it to refer to the user throughout the application.
+Add validation to guarantee that a user enters a positive integer between 1 and 100.
+
+*/
+
+
+public class DecisionMaking {
+
+	public static void main(String[] args) {
+		
+		Scanner scnr = new Scanner(System.in);
+		
+		System.out.print("Hi stranger, please enter your name. ");
+		String userName = scnr.next();
+		
+		System.out.print("Hello " + userName + ", please enter a whole number between 1 and 100. ");
+		int chosenNumber = scnr.nextInt();
+		
+		
+		
+		
+	}
+
+	private static isNumberOdd() {
+		
+	}
+	
+}

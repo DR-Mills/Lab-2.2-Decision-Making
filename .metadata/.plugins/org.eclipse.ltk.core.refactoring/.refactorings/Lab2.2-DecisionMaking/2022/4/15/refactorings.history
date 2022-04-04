@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;DecisionMaking.checkNumberAndRespond(...)&apos; to &apos;checkNumberAndSetMessage&apos;&#x0D;&#x0A;- Original project: &apos;Lab2.2-DecisionMaking&apos;&#x0D;&#x0A;- Original element: &apos;DecisionMaking.checkNumberAndRespond(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;DecisionMaking.checkNumberAndSetMessage(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;checkNumberAndRespond&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{DecisionMaking.java[DecisionMaking~checkNumberAndRespond~I" name="checkNumberAndSetMessage" references="true" stamp="1649094362204" version="1.0"/>
+</session>

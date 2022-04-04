@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\DMills\GC\Lab2.2-DecisionMaking\.metadata\.plugins\org.eclipse.jdt.core
+760091825.index
+930868480.index
+1865797976.index
